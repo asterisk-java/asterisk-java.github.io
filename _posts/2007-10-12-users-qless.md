@@ -13,7 +13,7 @@ tags:
 ---
 
 
-![](/asterisk-java/wp-content/files/2011/12/qless.gif)
+![]({{ site.url }}/assets/2011/12/qless.gif)
 QLess is a virtual queue management system for restaurants, theme parks, casinos, doctor's offices -- basically anywhere people are standing around waiting for a service. It holds the user's spot in line and lets them know how the line is moving along and when they reach the front by calling their cell phone. Then the user is free to wander off and make better use of his time.
 
 

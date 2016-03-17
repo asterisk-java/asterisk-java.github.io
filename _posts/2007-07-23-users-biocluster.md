@@ -14,7 +14,7 @@ tags:
 ---
 
 
-![](/asterisk-java/wp-content/files/2011/12/voipcluster.jpg)
+![]({{ site.url }}/assets/2011/12/voipcluster.jpg)
 "[BioCluster](http://voip-cluster.org/) is a clustering platform for Asterisk. It is installed alongside 
 Asterisk on several machines and can turn them into a VoIP cluster.   
 

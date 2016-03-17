@@ -13,7 +13,7 @@ tags:
 - speech
 ---
 
-![](/asterisk-java/wp-content/files/2011/12/lumenvox.gif)
+![]({{ site.url }}/assets/2011/12/lumenvox.gif)
 The latest [snapshot](http://maven.reucon.com/public-snapshot/org/asteriskjava/asterisk-java/1.0.0-SNAPSHOT/asterisk-java-1.0.0-20090403.210610-444.jar) of Asterisk-Java contains support for the Asterisk Speech API. This makes writing AGI script that recognize speech as easy as writing AGI scripts for DTMF input.
 
 All you need to get started is a recent version of Asterisk 1.6 and the [Lumenvox](http://www.lumenvox.com) Speech Engine. For development you can buy a [starter kit](http://store.digium.com/productview.php?product_code=8ASTLUMSTART) from Digium for 50 USD.

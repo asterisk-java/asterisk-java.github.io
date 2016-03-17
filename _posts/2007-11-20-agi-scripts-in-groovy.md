@@ -15,7 +15,7 @@ tags:
 ---
 
 
-![](/asterisk-java/wp-content/files/2011/12/groovy.png)
+![]({{ site.url }}/assets/2011/12/groovy.png)
 With a little bit of glue code you can implement your AGI scripts in [Groovy](http://groovy.codehaus.org), an agile dynamic language for the Java Platform. Your scripts run still in the Java VM on top of Asterisk-Java.
 
 

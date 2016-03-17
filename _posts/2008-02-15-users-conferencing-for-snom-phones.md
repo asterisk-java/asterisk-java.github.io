@@ -16,7 +16,7 @@ tags:
 ---
 
 
-![](/asterisk-java/wp-content/files/2011/12/snom370.jpg)
+![]({{ site.url }}/assets/2011/12/snom370.jpg)
 Andreas Neugebauer's submission to the [snom](http://www.snom.com/) [XML Contest](http://contest.snom.com/) was a conferencing application for Asterisk:
 
 

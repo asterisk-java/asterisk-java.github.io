@@ -14,7 +14,7 @@ tags:
 - users
 ---
 
-![](/asterisk-java/wp-content/files/2011/12/oracle.gif)
+![]({{ site.url }}/assets/2011/12/oracle.gif)
 Chris Heller has published a series of two blog posts on how to integrate Oracle's [PeopleSoft](http://www.oracle.com/applications/peoplesoft-enterprise.html) with Asterisk using Asterisk-Java.
 
 

@@ -16,7 +16,7 @@ tags:
 ---
 
 
-![Scala](/asterisk-java/wp-content/files/2011/12/scala_logo.png)
+![Scala]({{ site.url }}/assets/2011/12/scala_logo.png)
 
 From my participation in the [asterisk-users](http://lists.digium.com/mailman/listinfo/asterisk-users) and [asterisk-java-users](http://lists.sourceforge.net/mailman/listinfo/asterisk-java-users) mailing lists, and from the general questions I see, I think a common use case for the combination of the **Gateway** interface and the **Manager** interface is to **deliver outbound recorded messages**. I think that an example might help to show how the two interfaces (and the two parts of Asterisk-Java) can be leveraged to deliver outbound messages.
 

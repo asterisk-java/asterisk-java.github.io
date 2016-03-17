@@ -12,7 +12,7 @@ tags:
 - zimbra
 ---
 
-![](/asterisk-java/wp-content/files/2011/12/zimbra.png)
+![]({{ site.url }}/assets/2011/12/zimbra.png)
 [Zimbra](http://www.zimbra.com/) is an open source groupware product for messaging and collaboration. Its core is implemented in Java and provides extension points for custom plugins so called [Zimlets](http://www.zimbra.com/products/zimlets.html).
 
 

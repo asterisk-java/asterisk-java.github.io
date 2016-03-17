@@ -12,7 +12,7 @@ tags:
 ---
 
 
-![](/asterisk-java/wp-content/files/2011/12/asterisk.gif)
+![]({{ site.url }}/assets/2011/12/asterisk.gif)
 Since a few days the first beta of [Asterisk](http://www.asterisk.org/) 1.6.0 is [available for download](http://www.asterisk.org/downloads).
 
 

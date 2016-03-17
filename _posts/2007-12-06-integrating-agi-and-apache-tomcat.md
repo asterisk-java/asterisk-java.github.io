@@ -15,7 +15,7 @@ tags:
 ---
 
 
-![](/asterisk-java/wp-content/files/2011/12/tomcat.gif)
+![]({{ site.url }}/assets/2011/12/tomcat.gif)
 I've already described how the [Spring Framework](http://www.springframework.org) can be used to [externalize your AGI configuration](/asterisk-java/2007/03/22/externalize_your_agi_configuration.html). That blog entry asumed you are running your AGI server as a stand alone application. What is the best way to run it within an app server or a servlet container like [Tomcat](http://tomcat.apache.org) however?
 
 

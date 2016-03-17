@@ -13,7 +13,7 @@ tags:
 ---
 
 
-![](/asterisk-java/wp-content/files/2011/12/Caller+ID+icon+screenshot.gif)
+![]({{ site.url }}/assets/2011/12/Caller+ID+icon+screenshot.gif)
 The cool aussi guys at [Atlassian](http://www.atlassian.com/) had another 
 [FedEx day](http://blogs.atlassian.com/rebelutionary/archives/000495.html). One of the plugins for their issue tracker [JIRA](http://www.atlassian.com/software/jira/) they implemented is [JIRA Caller ID](http://blogs.atlassian.com/developer/2007/09/fedex_vi_winner_jira_caller_id.html).
 
@@ -42,7 +42,7 @@ The solution they came up with extracts the Caller ID from the current call and 
 
 
 
-![](/asterisk-java/wp-content/files/2011/12/Call+History+Screenshot.gif)
+![]({{ site.url }}/assets/2011/12/Call+History+Screenshot.gif)
 
 
 

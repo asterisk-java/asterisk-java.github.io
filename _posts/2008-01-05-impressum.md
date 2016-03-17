@@ -10,5 +10,5 @@ wordpress_id: 396
 ---
 
 
-![](/asterisk-java/wp-content/files/2011/12/impressum.png)
+![]({{ site.url }}/assets/2011/12/impressum.png)
 

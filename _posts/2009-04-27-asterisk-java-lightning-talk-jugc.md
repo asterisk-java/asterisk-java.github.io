@@ -12,7 +12,7 @@ tags:
 ---
 
 
-![](/asterisk-java/wp-content/files/2011/12/princeduke2.jpg)
+![]({{ site.url }}/assets/2011/12/princeduke2.jpg)
 I will give a short presentation of Asterisk-Java (in German) at the [Java User Group Cologne](http://jugcologne.org) (JUGC) on May 29th.
 
 

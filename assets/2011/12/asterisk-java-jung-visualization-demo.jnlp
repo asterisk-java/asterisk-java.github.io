@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp
+  spec="1.5+"
+  codebase="http://blogs.reucon.com/asterisk-java/files"
+  href="asterisk-java-jung-visualization-demo.jnlp">
+  <information>
+    <title>Asterisk Dialplan Visualization Demo</title>
+    <vendor>Martin Smith (martin@mbs3.org)</vendor>
+    <homepage href="http://asterisk-java.org/"/>
+    <description>An example visualization using JUNG, Asterisk-Java, and an extensions.conf file.</description>
+    <description kind="short">An example visualization using JUNG, Asterisk-Java, and an extensions.conf file.</description>
+    <offline-allowed/> 
+  </information>
+  <security>
+      <all-permissions/>
+  </security>
+  <resources>
+	<j2se version="1.5+"/>
+    <jar href="asterisk-java-jung-visualization-demo.jar"/>
+  </resources>
+  <application-desc/>
+</jnlp> 

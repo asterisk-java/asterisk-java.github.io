@@ -14,7 +14,7 @@ tags:
 ---
 
 
-![](/asterisk-java/wp-content/files/2011/12/skype-for-asterisk.png)
+![]({{ site.url }}/assets/2011/12/skype-for-asterisk.png)
 The latest [nightly snapshot](https://secure.reucon.net/nexus/content/repositories/opensource-snapshots/org/asteriskjava/asterisk-java/1.0.0.CI-SNAPSHOT/) of Asterisk-Java now supports [Skype for Asterisk](http://www.digium.com/en/products/software/skypeforasterisk.php) manager events and actions after we've implemented [AJ-262](https://secure.reucon.net/issues/browse/AJ-262). Skype for Asterisk support will also be part of the upcoming 1.0.0.M4 release of Asterisk-Java.
 
 

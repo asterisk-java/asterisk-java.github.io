@@ -12,7 +12,7 @@ tags:
 ---
 
 
-![](/asterisk-java/wp-content/files/2011/12/opennms_logo.png)[OpenNMS](http://www.opennms.org/) is an open source network management platform developed on the Java platform. It offers monitoring for a wide range of network devices and services.
+![]({{ site.url }}/assets/2011/12/opennms_logo.png)[OpenNMS](http://www.opennms.org/) is an open source network management platform developed on the Java platform. It offers monitoring for a wide range of network devices and services.
 
 
 

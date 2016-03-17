@@ -17,7 +17,7 @@ Atlassian has improved the charting features in their latest release of [Fisheye
 
 
 
-![](/asterisk-java/wp-content/files/2011/12/aj-stats-2008.png)
+![]({{ site.url }}/assets/2011/12/aj-stats-2008.png)
 
 
 Let's have a look at the individual packages:

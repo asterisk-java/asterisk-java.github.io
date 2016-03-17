@@ -17,7 +17,7 @@ I thought it might be interesting to see what kind of applications other users o
 
 
 
-![](/asterisk-java/wp-content/files/2011/12/isymphony.jpg)
+![]({{ site.url }}/assets/2011/12/isymphony.jpg)
 [iSymphony](http://www.i9technologies.com/isymphony/) is an easy-to-use, Java-based client/server software for managing phone calls via the Open Source Asterisk platform.
 
 
