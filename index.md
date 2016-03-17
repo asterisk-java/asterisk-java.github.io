@@ -45,8 +45,9 @@ Official releases and release candidates are available via Maven central:
         <version>1.0.0-final</version>
     </dependency>
 
-Please feel free to provide any feedback or ask for support via the
+Please feel free to provide any feedback or ask for community support via the
 [Asterisk-Java users mailing list](https://lists.sourceforge.net/lists/listinfo/asterisk-java-users).
+Professional services around asterisk-java, java and telephony in general is available from [trion](https://www.trion.de).
 
 You can find the source code at:
 {% include icon-github.html username="asterisk-java" %} /
@@ -92,15 +93,13 @@ provides a Java interface to the Asterisk Manager API, and GJTAPI, which
 provides a general framework for JTAPI interfaces.\
 Available under Apache License.
 
-[Asterisk
-.NET](http://www.voip-info.org/wiki/view/Asterisk+.NET)
+[Asterisk.NET](http://www.voip-info.org/wiki/view/Asterisk+.NET)
 is a full port of Asterisk-Java to .NET. It supports both the Manager
 API and FastAGI. The latest version is available from
 [SourceForge](http://asterisk-dotnet.sourceforge.net).\
 Available under Apache License.
 
-[Asterisk-Java for
-Mono/.NET](http://www3.mb.sympatico.ca/~chadk/) is a port
+[Asterisk-Java for Mono/.NET](http://www3.mb.sympatico.ca/~chadk/) is a port
 of Asterisk-Java to C\# for Mono, Microsoft's .NET Framework and
 anything else that implements the basic portions of the framework. It
 currently only supports the Manager API and is based on a pre-0.1
@@ -132,6 +131,7 @@ Available under GNU General Public License.
 
 Thanks to our sponsors:
 
+-   [trion development GmbH](https://www.trion.de)
 -   JetBrains for providing a free license of [IntelliJ
     Idea](http://www.jetbrains.com/idea/).
 -   [Atlassian](http://www.atlassian.com/) for providing

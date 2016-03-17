@@ -10,20 +10,28 @@ It seems we've hidden the link to our mailing lists a bit too well.
 
 We have two mailing lists:
 
--   Asterisk-Java Users for users of Asterisk-Java seeking help
--   Asterisk-Java Devel for developers of Asterisk-Java, i.e. the guys
+-   [Asterisk-Java Users](https://lists.sourceforge.net/lists/listinfo/asterisk-java-users) for users of Asterisk-Java seeking help
+-   [Asterisk-Java Users](https://lists.sourceforge.net/lists/listinfo/asterisk-java-devel) for developers of Asterisk-Java, i.e. the guys
     enhancing the library code itself. This list not intended to provide
     support regarding the use of Asterisk-Java.
 
-You can find the subscription details for both lists
-[here](http://asterisk-java.org/development/mail-lists.html).
+Professional services around asterisk-java, java and telephony in general is available from [trion](https://www.trion.de).
 
 ### What are the different components I can use to integrate my application with Asterisk? Which one should I choose for my particular task?
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------- ----------------------- ----------------------- -----------------------
-  Feature                                                                                                                                                                                                                    AMI                     AGI                     IAX                     C Module
-  Make/redirect calls Query active calls Query extension status Stop/start recording Receive/send media Modify/add dialplan Act as IVR application Act as soft phone Act as endpoint/caller Click to call Dashboard/status   x x x x - x - - - x x   - - - x - - x - x - -   x - - - x - - x x - -   x x x x x x x x x - x
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------------------- ----------------------- ----------------------- -----------------------
+|                        | AMI | AGI | IAX | C Module |
+|------------------------|:---:|:---:|:---:|:--------:|
+| Make/redirect calls    |  x  |  -  |  x  |     x    |
+| Query active calls     |  x  |  -  |  -  |     x    |
+| Query extension status |  x  |  -  |  -  |     x    |
+| Stop/start recording   |  x  |  x  |  -  |     x    |
+| Receive/send media     |  -  |  -  |  x  |     x    |
+| Modify/add dialplan    |  x  |  -  |  -  |     x    |
+| Act as IVR             |  -  |  x  |  -  |     x    |
+| Act as soft phone      |  -  |  -  |  x  |     x    |
+| Act as endpoint/caller |  -  |  x  |  x  |     x    |
+| Click to call          |  x  |  -  |  -  |     -    |
+| Dashboard/status       |  x  |  -  |  -  |     x    |
 
 ### How do I produce trace files that be sent to the mailing list for help?
 
