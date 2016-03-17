@@ -1,0 +1,22 @@
+---
+layout: page
+title: Build
+permalink: /build/
+---
+
+
+Building with Maven
+-------------------
+
+Retrieve the latest version of Asterisk-Java from github:
+
+    git clone https://github.com/asterisk-java/asterisk-java.git
+
+Then change to the created asterisk-java directory and use Maven 3 to
+build the project
+
+    cd asterisk-java
+    mvn install
+
+This will create the asterisk-java-\$VERSION.jar in the target
+subdirectory as well as in your local maven repository.
