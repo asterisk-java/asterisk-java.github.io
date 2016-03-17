@@ -1,0 +1,8 @@
+title: Asterisk-Java
+description: The free Java library for Asterisk PBX integration.
+baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://asterisk-java.github.io" # the base hostname & protocol for your site
+github_username:  asterisk-java
+
+# Build settings
+markdown: kramdown
