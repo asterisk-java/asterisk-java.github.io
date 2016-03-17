@@ -15,8 +15,8 @@ interfaces:
     interface](http://www.voip-info.org/wiki-Asterisk+manager+API) (AMI).
 
 Please start with the [tutorial]({{ site.url }}/tutorial/), the [frequently
-asked questions]({{ site.url }}/faq/), or the [API
-reference](#apidocsindex.html).
+asked questions]({{ site.url }}/faq/), or the API
+reference.
 
 ## License
 
@@ -34,7 +34,7 @@ Official releases and release candidates are available via Maven central:
     </dependency>
 
 Please feel free to provide any feedback or ask for support via the
-[Asterisk-Java users mailing list](#mail-lists.html).
+[Asterisk-Java users mailing list](https://lists.sourceforge.net/lists/listinfo/asterisk-java-users).
 
 You can find the source code at:
 {% include icon-github.html username="asterisk-java" %} /
