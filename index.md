@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 The Asterisk-Java package consists of a set of Java classes that allow
@@ -18,12 +18,24 @@ Please start with the [tutorial]({{ site.url }}/tutorial/), the [frequently
 asked questions]({{ site.url }}/faq/), or the API
 reference.
 
-## License
+### News
+
+<ul class="post-list">
+  {% for post in site.posts limit:5 %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> &raquo; <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+[more...]({{ site.url }}/posts/)
+
+### License
 
 Asterisk-Java is provided under the terms of the [Apache License,
 Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
-## Download
+### Download
 
 Official releases and release candidates are available via Maven central:
 
@@ -40,7 +52,7 @@ You can find the source code at:
 {% include icon-github.html username="asterisk-java" %} /
 [asterisk-java](https://github.com/asterisk-java/asterisk-java)
 
-## Requirements
+### Requirements
 
 Asterisk-Java is compatible with Asterisk 1.0, 1.2, 1.4 and 1.6.
 
@@ -61,7 +73,7 @@ Developer Kit (JDK) of at least version 1.6 (Java SE 6). To run the unit
 tests you need [JUnit](http://www.junit.org/) and
 [EasyMock](http://www.easymock.org/) in addition.
 
-## Related Projects
+### Related Projects
 
 [AsterFax](http://asterfax.sourceforge.net/) provides an
 SMTP Fax gateway for the transmission of faxes using Asterisk and is
@@ -116,7 +128,7 @@ functionality from Java. It is not a socket-level interface to Asterisk
 level.
 Available under GNU General Public License.
 
-## Sponsors
+### Sponsors
 
 Thanks to our sponsors:
 
