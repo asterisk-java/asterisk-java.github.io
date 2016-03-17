@@ -17,7 +17,7 @@ excerpt: '<p>
 
   </p>'
 layout: post
-permalink: visualizing-your-dialplan-with-a-graph-456
+permalink: visualizing-your-dialplan-with-a-graph-456/
 slug: visualizing-your-dialplan-with-a-graph
 title: Visualizing your dialplan with a graph
 wordpress_id: 456

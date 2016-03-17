@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2007-09-12 21:30:00+00:00
 layout: post
-permalink: new-developer-patrick-breucking-856
+permalink: new-developer-patrick-breucking-856/
 slug: new-developer-patrick-breucking
 title: 'New Developer: Patrick Breucking'
 wordpress_id: 856

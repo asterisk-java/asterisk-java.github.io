@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2007-12-06 16:26:19+00:00
 layout: post
-permalink: integrating-agi-and-apache-tomcat-536
+permalink: integrating-agi-and-apache-tomcat-536/
 slug: integrating-agi-and-apache-tomcat
 title: Integrating AGI and Apache Tomcat
 wordpress_id: 536

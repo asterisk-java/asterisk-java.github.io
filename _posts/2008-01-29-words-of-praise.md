@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-01-29 01:10:00+00:00
 layout: post
-permalink: words-of-praise-586
+permalink: words-of-praise-586/
 slug: words-of-praise
 title: Words Of Praise
 wordpress_id: 586

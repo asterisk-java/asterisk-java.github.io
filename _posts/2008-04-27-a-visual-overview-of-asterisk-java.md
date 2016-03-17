@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-04-27 12:05:39+00:00
 layout: post
-permalink: a-visual-overview-of-asterisk-java-706
+permalink: a-visual-overview-of-asterisk-java-706/
 slug: a-visual-overview-of-asterisk-java
 title: A Visual Overview Of Asterisk-Java
 wordpress_id: 706

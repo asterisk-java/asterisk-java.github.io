@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-01-12 18:32:00+00:00
 layout: post
-permalink: md5-authentication-bug-in-asterisk-576
+permalink: md5-authentication-bug-in-asterisk-576/
 slug: md5-authentication-bug-in-asterisk
 title: MD5 Authentication Bug in Asterisk
 wordpress_id: 576

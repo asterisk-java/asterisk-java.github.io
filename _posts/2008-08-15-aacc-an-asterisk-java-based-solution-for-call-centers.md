@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-08-15 01:21:00+00:00
 layout: post
-permalink: aacc-an-asterisk-java-based-solution-for-call-centers-736
+permalink: aacc-an-asterisk-java-based-solution-for-call-centers-736/
 slug: aacc-an-asterisk-java-based-solution-for-call-centers
 title: 'AACC: An Asterisk-Java based solution for Call Centers'
 wordpress_id: 736

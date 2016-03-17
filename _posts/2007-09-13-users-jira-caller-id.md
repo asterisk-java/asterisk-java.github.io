@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2007-09-13 21:51:52+00:00
 layout: post
-permalink: users-jira-caller-id-746
+permalink: users-jira-caller-id-746/
 slug: users-jira-caller-id
 title: 'Users: JIRA Caller ID'
 wordpress_id: 746

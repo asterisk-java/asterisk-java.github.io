@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-08-10 03:26:00+00:00
 layout: post
-permalink: users-integrating-peoplesoft-and-asterisk-526
+permalink: users-integrating-peoplesoft-and-asterisk-526/
 slug: users-integrating-peoplesoft-and-asterisk
 title: 'Users: Integrating PeopleSoft and Asterisk'
 wordpress_id: 526

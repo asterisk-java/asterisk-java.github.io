@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-12-27 12:05:00+00:00
 layout: post
-permalink: users-zimbra-integration-846
+permalink: users-zimbra-integration-846/
 slug: users-zimbra-integration
 title: 'Users: Zimbra Integration'
 wordpress_id: 846

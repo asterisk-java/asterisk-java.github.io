@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2007-04-17 22:31:00+00:00
 layout: post
-permalink: originate-using-asterisk-local-channels-566
+permalink: originate-using-asterisk-local-channels-566/
 slug: originate-using-asterisk-local-channels
 title: Originate Using Asterisk Local Channels
 wordpress_id: 566

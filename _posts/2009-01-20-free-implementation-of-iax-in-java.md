@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2009-01-20 03:02:00+00:00
 layout: post
-permalink: free-implementation-of-iax-in-java-436
+permalink: free-implementation-of-iax-in-java-436/
 slug: free-implementation-of-iax-in-java
 title: Free Implementation of IAX in Java
 wordpress_id: 436

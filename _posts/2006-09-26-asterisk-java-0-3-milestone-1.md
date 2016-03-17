@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2006-09-26 01:35:00+00:00
 layout: post
-permalink: asterisk-java-0-3-milestone-1-676
+permalink: asterisk-java-0-3-milestone-1-676/
 slug: asterisk-java-0-3-milestone-1
 title: Asterisk-Java 0.3 Milestone 1
 wordpress_id: 676

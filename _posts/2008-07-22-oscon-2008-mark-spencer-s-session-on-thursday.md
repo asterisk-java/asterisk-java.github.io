@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-07-22 01:36:00+00:00
 layout: post
-permalink: oscon-2008-mark-spencer-s-session-on-thursday-626
+permalink: oscon-2008-mark-spencer-s-session-on-thursday-626/
 slug: oscon-2008-mark-spencer-s-session-on-thursday
 title: OSCON 2008, Mark Spencer's session on Thursday
 wordpress_id: 626

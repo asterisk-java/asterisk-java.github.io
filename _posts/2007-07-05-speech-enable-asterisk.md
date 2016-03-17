@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2007-07-05 09:28:00+00:00
 layout: post
-permalink: speech-enable-asterisk-426
+permalink: speech-enable-asterisk-426/
 slug: speech-enable-asterisk
 title: Speech-enable Asterisk
 wordpress_id: 426

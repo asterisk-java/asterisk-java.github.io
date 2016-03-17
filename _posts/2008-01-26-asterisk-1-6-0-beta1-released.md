@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-01-26 02:41:00+00:00
 layout: post
-permalink: asterisk-1-6-0-beta1-released-836
+permalink: asterisk-1-6-0-beta1-released-836/
 slug: asterisk-1-6-0-beta1-released
 title: Asterisk 1.6.0-beta1 Released
 wordpress_id: 836

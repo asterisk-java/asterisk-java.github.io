@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-03-22 15:59:00+00:00
 layout: post
-permalink: frequently-asked-questions-486
+permalink: frequently-asked-questions-486/
 slug: frequently-asked-questions
 title: Frequently Asked Questions
 wordpress_id: 486

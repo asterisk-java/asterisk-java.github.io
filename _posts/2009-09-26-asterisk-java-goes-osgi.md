@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2009-09-26 10:16:00+00:00
 layout: post
-permalink: asterisk-java-goes-osgi-636
+permalink: asterisk-java-goes-osgi-636/
 slug: asterisk-java-goes-osgi
 title: Asterisk-Java goes OSGi
 wordpress_id: 636

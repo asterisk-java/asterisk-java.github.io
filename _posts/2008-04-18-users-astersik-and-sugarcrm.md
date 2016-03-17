@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-04-18 09:50:00+00:00
 layout: post
-permalink: users-astersik-and-sugarcrm-596
+permalink: users-astersik-and-sugarcrm-596/
 slug: users-astersik-and-sugarcrm
 title: 'Users: Astersik and SugarCRM'
 wordpress_id: 596

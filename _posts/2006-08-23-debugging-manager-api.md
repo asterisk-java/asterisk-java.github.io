@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2006-08-23 01:43:00+00:00
 layout: post
-permalink: debugging-manager-api-776
+permalink: debugging-manager-api-776/
 slug: debugging-manager-api
 title: Debugging Manager API
 wordpress_id: 776

@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2009-04-27 12:59:00+00:00
 layout: post
-permalink: asterisk-java-lightning-talk-jugc-826
+permalink: asterisk-java-lightning-talk-jugc-826/
 slug: asterisk-java-lightning-talk-jugc
 title: Asterisk-Java Lightning Talk @ JUGC
 wordpress_id: 826

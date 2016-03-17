@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2009-10-17 04:53:00+00:00
 layout: post
-permalink: built-in-support-for-network-tracing-656
+permalink: built-in-support-for-network-tracing-656/
 slug: built-in-support-for-network-tracing
 title: Built-in Support For Network Tracing
 wordpress_id: 656

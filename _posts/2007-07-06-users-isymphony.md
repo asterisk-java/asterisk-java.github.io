@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2007-07-06 14:02:00+00:00
 layout: post
-permalink: users-isymphony-886
+permalink: users-isymphony-886/
 slug: users-isymphony
 title: 'Users: iSymphony'
 wordpress_id: 886

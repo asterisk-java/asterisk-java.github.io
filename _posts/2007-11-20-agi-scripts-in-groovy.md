@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2007-11-20 20:00:14+00:00
 layout: post
-permalink: agi-scripts-in-groovy-806
+permalink: agi-scripts-in-groovy-806/
 slug: agi-scripts-in-groovy
 title: AGI scripts in Groovy
 wordpress_id: 806

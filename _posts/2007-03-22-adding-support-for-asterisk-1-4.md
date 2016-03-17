@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2007-03-22 23:36:00+00:00
 layout: post
-permalink: adding-support-for-asterisk-1-4-606
+permalink: adding-support-for-asterisk-1-4-606/
 slug: adding-support-for-asterisk-1-4
 title: Adding Support for Asterisk 1.4
 wordpress_id: 606

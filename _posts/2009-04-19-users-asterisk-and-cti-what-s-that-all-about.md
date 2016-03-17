@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2009-04-19 09:25:00+00:00
 layout: post
-permalink: users-asterisk-and-cti-what-s-that-all-about-816
+permalink: users-asterisk-and-cti-what-s-that-all-about-816/
 slug: users-asterisk-and-cti-what-s-that-all-about
 title: 'Users: Asterisk and CTI, what''s that all about?'
 wordpress_id: 816

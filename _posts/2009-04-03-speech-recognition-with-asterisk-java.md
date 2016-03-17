@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2009-04-03 21:38:00+00:00
 layout: post
-permalink: speech-recognition-with-asterisk-java-666
+permalink: speech-recognition-with-asterisk-java-666/
 slug: speech-recognition-with-asterisk-java
 title: Speech Recognition with Asterisk-Java
 wordpress_id: 666

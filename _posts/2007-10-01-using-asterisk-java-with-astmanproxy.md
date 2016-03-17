@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2007-10-01 23:32:00+00:00
 layout: post
-permalink: using-asterisk-java-with-astmanproxy-876
+permalink: using-asterisk-java-with-astmanproxy-876/
 slug: using-asterisk-java-with-astmanproxy
 title: Using Asterisk-Java with AstManProxy
 wordpress_id: 876

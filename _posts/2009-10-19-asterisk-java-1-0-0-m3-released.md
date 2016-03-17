@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2009-10-19 20:39:00+00:00
 layout: post
-permalink: asterisk-java-1-0-0-m3-released-686
+permalink: asterisk-java-1-0-0-m3-released-686/
 slug: asterisk-java-1-0-0-m3-released
 title: Asterisk-Java 1.0.0.M3 Released
 wordpress_id: 686

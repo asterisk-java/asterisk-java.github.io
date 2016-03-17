@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2009-09-14 23:59:00+00:00
 layout: post
-permalink: users-adempiere-asterisk-integration-616
+permalink: users-adempiere-asterisk-integration-616/
 slug: users-adempiere-asterisk-integration
 title: 'Users: ADempiere Asterisk Integration'
 wordpress_id: 616

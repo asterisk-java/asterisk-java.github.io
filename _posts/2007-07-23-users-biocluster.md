@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2007-07-23 19:16:15+00:00
 layout: post
-permalink: users-biocluster-406
+permalink: users-biocluster-406/
 slug: users-biocluster
 title: 'Users: BioCluster'
 wordpress_id: 406

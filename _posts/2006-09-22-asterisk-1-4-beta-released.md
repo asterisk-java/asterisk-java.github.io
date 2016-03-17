@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2006-09-22 20:40:00+00:00
 layout: post
-permalink: asterisk-1-4-beta-released-416
+permalink: asterisk-1-4-beta-released-416/
 slug: asterisk-1-4-beta-released
 title: Asterisk 1.4 beta released
 wordpress_id: 416

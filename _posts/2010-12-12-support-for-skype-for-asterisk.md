@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2010-12-12 12:37:00+00:00
 layout: post
-permalink: support-for-skype-for-asterisk-786
+permalink: support-for-skype-for-asterisk-786/
 slug: support-for-skype-for-asterisk
 title: Support for Skype for Asterisk
 wordpress_id: 786

@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2009-07-09 15:52:00+00:00
 layout: post
-permalink: asterisk-java-sync-to-maven-central-repo-386
+permalink: asterisk-java-sync-to-maven-central-repo-386/
 slug: asterisk-java-sync-to-maven-central-repo
 title: Asterisk-Java Sync to Maven Central Repo
 wordpress_id: 386

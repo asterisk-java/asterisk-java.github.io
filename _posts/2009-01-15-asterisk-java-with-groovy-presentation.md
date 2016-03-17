@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2009-01-15 00:24:00+00:00
 layout: post
-permalink: asterisk-java-with-groovy-presentation-496
+permalink: asterisk-java-with-groovy-presentation-496/
 slug: asterisk-java-with-groovy-presentation
 title: Asterisk-Java With Groovy Presentation
 wordpress_id: 496

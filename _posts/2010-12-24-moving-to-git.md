@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2010-12-24 15:12:00+00:00
 layout: post
-permalink: moving-to-git-506
+permalink: moving-to-git-506/
 slug: moving-to-git
 title: Moving To Git
 wordpress_id: 506

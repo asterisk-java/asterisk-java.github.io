@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2009-05-13 08:34:00+00:00
 layout: post
-permalink: scripting-support-for-fastagi-466
+permalink: scripting-support-for-fastagi-466/
 slug: scripting-support-for-fastagi
 title: Scripting Support for FastAGI
 wordpress_id: 466

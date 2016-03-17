@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-01-17 11:23:00+00:00
 layout: post
-permalink: faq-where-is-the-mailing-list-516
+permalink: faq-where-is-the-mailing-list-516/
 slug: faq-where-is-the-mailing-list
 title: 'FAQ: Where is the Mailing List?'
 wordpress_id: 516

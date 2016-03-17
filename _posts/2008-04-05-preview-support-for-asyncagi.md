@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-04-05 03:02:44+00:00
 layout: post
-permalink: preview-support-for-asyncagi-866
+permalink: preview-support-for-asyncagi-866/
 slug: preview-support-for-asyncagi
 title: 'Preview: Support for AsyncAGI'
 wordpress_id: 866

@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2007-10-12 23:06:00+00:00
 layout: post
-permalink: users-qless-476
+permalink: users-qless-476/
 slug: users-qless
 title: 'Users: QLess'
 wordpress_id: 476

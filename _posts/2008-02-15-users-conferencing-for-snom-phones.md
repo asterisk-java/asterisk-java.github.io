@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-02-15 03:53:07+00:00
 layout: post
-permalink: users-conferencing-for-snom-phones-446
+permalink: users-conferencing-for-snom-phones-446/
 slug: users-conferencing-for-snom-phones
 title: 'Users: Conferencing for snom Phones'
 wordpress_id: 446

@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-11-13 01:50:00+00:00
 layout: post
-permalink: users-asterisk-java-and-spring-696
+permalink: users-asterisk-java-and-spring-696/
 slug: users-asterisk-java-and-spring
 title: 'Users: Asterisk-Java and Spring'
 wordpress_id: 696

@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-02-15 02:18:17+00:00
 layout: post
-permalink: agi-scripts-in-beanshell-766
+permalink: agi-scripts-in-beanshell-766/
 slug: agi-scripts-in-beanshell
 title: AGI scripts in BeanShell
 wordpress_id: 766

@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2013-01-23 16:20:30+00:00
 layout: post
-permalink: asterisk-manager-interface-1-4-1158
+permalink: asterisk-manager-interface-1-4-1158/
 slug: asterisk-manager-interface-1-4
 title: Asterisk Manager Interface 1.4
 wordpress_id: 1158

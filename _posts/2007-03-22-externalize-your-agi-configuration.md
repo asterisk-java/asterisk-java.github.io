@@ -17,7 +17,7 @@ excerpt: "<p>Using a dependency injection framework like the <a href=\"http://ww
   \ name=\"voicePrompt\" value=\"tt-monkeys\" /&gt;\n\t&lt;/bean&gt;\n\n&lt;/beans&gt;\n\
   </pre>"
 layout: post
-permalink: externalize-your-agi-configuration-796
+permalink: externalize-your-agi-configuration-796/
 slug: externalize-your-agi-configuration
 title: Externalize your AGI Configuration
 wordpress_id: 796

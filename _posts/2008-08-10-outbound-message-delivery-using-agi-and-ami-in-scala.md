@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-08-10 03:38:46+00:00
 layout: post
-permalink: outbound-message-delivery-using-agi-and-ami-in-scala-556
+permalink: outbound-message-delivery-using-agi-and-ami-in-scala-556/
 slug: outbound-message-delivery-using-agi-and-ami-in-scala
 title: Outbound Message Delivery using AGI and AMI in Scala
 wordpress_id: 556

@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2008-04-28 02:05:29+00:00
 layout: post
-permalink: defaultagiserver-in-jboss-as-4-x-906
+permalink: defaultagiserver-in-jboss-as-4-x-906/
 slug: defaultagiserver-in-jboss-as-4-x
 title: DefaultAgiServer in JBoss AS 4.x
 wordpress_id: 906

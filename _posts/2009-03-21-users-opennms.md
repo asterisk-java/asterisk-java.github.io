@@ -3,7 +3,7 @@ author: srt
 comments: true
 date: 2009-03-21 11:48:00+00:00
 layout: post
-permalink: users-opennms-546
+permalink: users-opennms-546/
 slug: users-opennms
 title: 'Users: OpenNMS'
 wordpress_id: 546
